@@ -1,0 +1,28 @@
+Generation: 0
+- X - 
+X X - 
+- X - 
+Generation: 0
+- X - 
+X X - 
+- X - 
+Generation: 1
+X X - 
+X X X 
+X X - 
+Generation: 2
+X - X 
+- - X 
+X - X 
+Generation: 3
+- X - 
+- - X 
+- X - 
+Generation: 4
+- - - 
+- X X 
+- - - 
+Generation: 4
+- - - 
+- - - 
+- - - 
